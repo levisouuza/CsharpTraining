@@ -1,0 +1,13 @@
+C:\workspace\ExercicioListas\ExercicioListas\bin\Debug\netcoreapp3.1\ExercicioListas.exe
+C:\workspace\ExercicioListas\ExercicioListas\bin\Debug\netcoreapp3.1\ExercicioListas.deps.json
+C:\workspace\ExercicioListas\ExercicioListas\bin\Debug\netcoreapp3.1\ExercicioListas.runtimeconfig.json
+C:\workspace\ExercicioListas\ExercicioListas\bin\Debug\netcoreapp3.1\ExercicioListas.runtimeconfig.dev.json
+C:\workspace\ExercicioListas\ExercicioListas\bin\Debug\netcoreapp3.1\ExercicioListas.dll
+C:\workspace\ExercicioListas\ExercicioListas\bin\Debug\netcoreapp3.1\ExercicioListas.pdb
+C:\workspace\ExercicioListas\ExercicioListas\obj\Debug\netcoreapp3.1\ExercicioListas.csprojAssemblyReference.cache
+C:\workspace\ExercicioListas\ExercicioListas\obj\Debug\netcoreapp3.1\ExercicioListas.AssemblyInfoInputs.cache
+C:\workspace\ExercicioListas\ExercicioListas\obj\Debug\netcoreapp3.1\ExercicioListas.AssemblyInfo.cs
+C:\workspace\ExercicioListas\ExercicioListas\obj\Debug\netcoreapp3.1\ExercicioListas.csproj.CoreCompileInputs.cache
+C:\workspace\ExercicioListas\ExercicioListas\obj\Debug\netcoreapp3.1\ExercicioListas.dll
+C:\workspace\ExercicioListas\ExercicioListas\obj\Debug\netcoreapp3.1\ExercicioListas.pdb
+C:\workspace\ExercicioListas\ExercicioListas\obj\Debug\netcoreapp3.1\ExercicioListas.genruntimeconfig.cache
