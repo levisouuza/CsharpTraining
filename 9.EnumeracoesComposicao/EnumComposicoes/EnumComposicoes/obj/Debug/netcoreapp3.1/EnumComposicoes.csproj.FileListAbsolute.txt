@@ -1,0 +1,13 @@
+C:\workspace\EnumComposicoes\EnumComposicoes\bin\Debug\netcoreapp3.1\EnumComposicoes.exe
+C:\workspace\EnumComposicoes\EnumComposicoes\bin\Debug\netcoreapp3.1\EnumComposicoes.deps.json
+C:\workspace\EnumComposicoes\EnumComposicoes\bin\Debug\netcoreapp3.1\EnumComposicoes.runtimeconfig.json
+C:\workspace\EnumComposicoes\EnumComposicoes\bin\Debug\netcoreapp3.1\EnumComposicoes.runtimeconfig.dev.json
+C:\workspace\EnumComposicoes\EnumComposicoes\bin\Debug\netcoreapp3.1\EnumComposicoes.dll
+C:\workspace\EnumComposicoes\EnumComposicoes\bin\Debug\netcoreapp3.1\EnumComposicoes.pdb
+C:\workspace\EnumComposicoes\EnumComposicoes\obj\Debug\netcoreapp3.1\EnumComposicoes.csprojAssemblyReference.cache
+C:\workspace\EnumComposicoes\EnumComposicoes\obj\Debug\netcoreapp3.1\EnumComposicoes.AssemblyInfoInputs.cache
+C:\workspace\EnumComposicoes\EnumComposicoes\obj\Debug\netcoreapp3.1\EnumComposicoes.AssemblyInfo.cs
+C:\workspace\EnumComposicoes\EnumComposicoes\obj\Debug\netcoreapp3.1\EnumComposicoes.csproj.CoreCompileInputs.cache
+C:\workspace\EnumComposicoes\EnumComposicoes\obj\Debug\netcoreapp3.1\EnumComposicoes.dll
+C:\workspace\EnumComposicoes\EnumComposicoes\obj\Debug\netcoreapp3.1\EnumComposicoes.pdb
+C:\workspace\EnumComposicoes\EnumComposicoes\obj\Debug\netcoreapp3.1\EnumComposicoes.genruntimeconfig.cache
