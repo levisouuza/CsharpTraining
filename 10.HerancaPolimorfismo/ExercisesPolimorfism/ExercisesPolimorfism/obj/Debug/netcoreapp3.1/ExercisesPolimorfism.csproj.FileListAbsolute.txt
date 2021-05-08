@@ -1,0 +1,13 @@
+C:\workspace\ExercisesPolimorfism\ExercisesPolimorfism\bin\Debug\netcoreapp3.1\ExercisesPolimorfism.exe
+C:\workspace\ExercisesPolimorfism\ExercisesPolimorfism\bin\Debug\netcoreapp3.1\ExercisesPolimorfism.deps.json
+C:\workspace\ExercisesPolimorfism\ExercisesPolimorfism\bin\Debug\netcoreapp3.1\ExercisesPolimorfism.runtimeconfig.json
+C:\workspace\ExercisesPolimorfism\ExercisesPolimorfism\bin\Debug\netcoreapp3.1\ExercisesPolimorfism.runtimeconfig.dev.json
+C:\workspace\ExercisesPolimorfism\ExercisesPolimorfism\bin\Debug\netcoreapp3.1\ExercisesPolimorfism.dll
+C:\workspace\ExercisesPolimorfism\ExercisesPolimorfism\bin\Debug\netcoreapp3.1\ExercisesPolimorfism.pdb
+C:\workspace\ExercisesPolimorfism\ExercisesPolimorfism\obj\Debug\netcoreapp3.1\ExercisesPolimorfism.csprojAssemblyReference.cache
+C:\workspace\ExercisesPolimorfism\ExercisesPolimorfism\obj\Debug\netcoreapp3.1\ExercisesPolimorfism.AssemblyInfoInputs.cache
+C:\workspace\ExercisesPolimorfism\ExercisesPolimorfism\obj\Debug\netcoreapp3.1\ExercisesPolimorfism.AssemblyInfo.cs
+C:\workspace\ExercisesPolimorfism\ExercisesPolimorfism\obj\Debug\netcoreapp3.1\ExercisesPolimorfism.csproj.CoreCompileInputs.cache
+C:\workspace\ExercisesPolimorfism\ExercisesPolimorfism\obj\Debug\netcoreapp3.1\ExercisesPolimorfism.dll
+C:\workspace\ExercisesPolimorfism\ExercisesPolimorfism\obj\Debug\netcoreapp3.1\ExercisesPolimorfism.pdb
+C:\workspace\ExercisesPolimorfism\ExercisesPolimorfism\obj\Debug\netcoreapp3.1\ExercisesPolimorfism.genruntimeconfig.cache
