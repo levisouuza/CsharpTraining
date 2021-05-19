@@ -1,0 +1,13 @@
+C:\workspace\ExercisesAbstractMethods\ExercisesAbstractMethods\bin\Debug\netcoreapp3.1\ExercisesAbstractMethods.exe
+C:\workspace\ExercisesAbstractMethods\ExercisesAbstractMethods\bin\Debug\netcoreapp3.1\ExercisesAbstractMethods.deps.json
+C:\workspace\ExercisesAbstractMethods\ExercisesAbstractMethods\bin\Debug\netcoreapp3.1\ExercisesAbstractMethods.runtimeconfig.json
+C:\workspace\ExercisesAbstractMethods\ExercisesAbstractMethods\bin\Debug\netcoreapp3.1\ExercisesAbstractMethods.runtimeconfig.dev.json
+C:\workspace\ExercisesAbstractMethods\ExercisesAbstractMethods\bin\Debug\netcoreapp3.1\ExercisesAbstractMethods.dll
+C:\workspace\ExercisesAbstractMethods\ExercisesAbstractMethods\bin\Debug\netcoreapp3.1\ExercisesAbstractMethods.pdb
+C:\workspace\ExercisesAbstractMethods\ExercisesAbstractMethods\obj\Debug\netcoreapp3.1\ExercisesAbstractMethods.csprojAssemblyReference.cache
+C:\workspace\ExercisesAbstractMethods\ExercisesAbstractMethods\obj\Debug\netcoreapp3.1\ExercisesAbstractMethods.AssemblyInfoInputs.cache
+C:\workspace\ExercisesAbstractMethods\ExercisesAbstractMethods\obj\Debug\netcoreapp3.1\ExercisesAbstractMethods.AssemblyInfo.cs
+C:\workspace\ExercisesAbstractMethods\ExercisesAbstractMethods\obj\Debug\netcoreapp3.1\ExercisesAbstractMethods.csproj.CoreCompileInputs.cache
+C:\workspace\ExercisesAbstractMethods\ExercisesAbstractMethods\obj\Debug\netcoreapp3.1\ExercisesAbstractMethods.dll
+C:\workspace\ExercisesAbstractMethods\ExercisesAbstractMethods\obj\Debug\netcoreapp3.1\ExercisesAbstractMethods.pdb
+C:\workspace\ExercisesAbstractMethods\ExercisesAbstractMethods\obj\Debug\netcoreapp3.1\ExercisesAbstractMethods.genruntimeconfig.cache
