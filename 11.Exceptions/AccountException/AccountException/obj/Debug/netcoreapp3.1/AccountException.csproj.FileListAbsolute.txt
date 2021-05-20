@@ -1,0 +1,13 @@
+C:\workspace\AccountException\AccountException\bin\Debug\netcoreapp3.1\AccountException.exe
+C:\workspace\AccountException\AccountException\bin\Debug\netcoreapp3.1\AccountException.deps.json
+C:\workspace\AccountException\AccountException\bin\Debug\netcoreapp3.1\AccountException.runtimeconfig.json
+C:\workspace\AccountException\AccountException\bin\Debug\netcoreapp3.1\AccountException.runtimeconfig.dev.json
+C:\workspace\AccountException\AccountException\bin\Debug\netcoreapp3.1\AccountException.dll
+C:\workspace\AccountException\AccountException\bin\Debug\netcoreapp3.1\AccountException.pdb
+C:\workspace\AccountException\AccountException\obj\Debug\netcoreapp3.1\AccountException.csprojAssemblyReference.cache
+C:\workspace\AccountException\AccountException\obj\Debug\netcoreapp3.1\AccountException.AssemblyInfoInputs.cache
+C:\workspace\AccountException\AccountException\obj\Debug\netcoreapp3.1\AccountException.AssemblyInfo.cs
+C:\workspace\AccountException\AccountException\obj\Debug\netcoreapp3.1\AccountException.csproj.CoreCompileInputs.cache
+C:\workspace\AccountException\AccountException\obj\Debug\netcoreapp3.1\AccountException.dll
+C:\workspace\AccountException\AccountException\obj\Debug\netcoreapp3.1\AccountException.pdb
+C:\workspace\AccountException\AccountException\obj\Debug\netcoreapp3.1\AccountException.genruntimeconfig.cache
