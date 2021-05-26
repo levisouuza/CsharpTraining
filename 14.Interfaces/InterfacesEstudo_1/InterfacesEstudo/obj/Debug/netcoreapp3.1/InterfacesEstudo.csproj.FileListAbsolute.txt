@@ -1,0 +1,13 @@
+C:\workspace\InterfacesEstudo\InterfacesEstudo\bin\Debug\netcoreapp3.1\InterfacesEstudo.exe
+C:\workspace\InterfacesEstudo\InterfacesEstudo\bin\Debug\netcoreapp3.1\InterfacesEstudo.deps.json
+C:\workspace\InterfacesEstudo\InterfacesEstudo\bin\Debug\netcoreapp3.1\InterfacesEstudo.runtimeconfig.json
+C:\workspace\InterfacesEstudo\InterfacesEstudo\bin\Debug\netcoreapp3.1\InterfacesEstudo.runtimeconfig.dev.json
+C:\workspace\InterfacesEstudo\InterfacesEstudo\bin\Debug\netcoreapp3.1\InterfacesEstudo.dll
+C:\workspace\InterfacesEstudo\InterfacesEstudo\bin\Debug\netcoreapp3.1\InterfacesEstudo.pdb
+C:\workspace\InterfacesEstudo\InterfacesEstudo\obj\Debug\netcoreapp3.1\InterfacesEstudo.csprojAssemblyReference.cache
+C:\workspace\InterfacesEstudo\InterfacesEstudo\obj\Debug\netcoreapp3.1\InterfacesEstudo.AssemblyInfoInputs.cache
+C:\workspace\InterfacesEstudo\InterfacesEstudo\obj\Debug\netcoreapp3.1\InterfacesEstudo.AssemblyInfo.cs
+C:\workspace\InterfacesEstudo\InterfacesEstudo\obj\Debug\netcoreapp3.1\InterfacesEstudo.csproj.CoreCompileInputs.cache
+C:\workspace\InterfacesEstudo\InterfacesEstudo\obj\Debug\netcoreapp3.1\InterfacesEstudo.dll
+C:\workspace\InterfacesEstudo\InterfacesEstudo\obj\Debug\netcoreapp3.1\InterfacesEstudo.pdb
+C:\workspace\InterfacesEstudo\InterfacesEstudo\obj\Debug\netcoreapp3.1\InterfacesEstudo.genruntimeconfig.cache
